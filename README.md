@@ -1,3 +1,22 @@
+The goal of this project is to build a presence detector for five friends living together. Using the wifi capabilities of a ESP8266, this microcontroller is looking for this five known MACs of the wifi adapter of their smartphones. If a MAC is near the ESP8266, a green LED (of friend #1) is switched on, otherwise another LED is red.  
+
+
+Example:
+
++--------------------------------+
+|                                |
+|   #1    #2    #3    #4    #5   |
+|                                |
+|   RED   RED   RED         RED  |
+|                                |           Result: #4 is available for drinking beer!
+|                                |
+|                     Green      |
+|                                |
++--------------------------------+
+
+
+
+
 # Friend Detector by Ricardo Oliveira, forked by Skickar 9/30/2018
 
 This project requires: A NodeMCU, a mini-breadboard (or full sized one), and a 4 pin RGB LED. 

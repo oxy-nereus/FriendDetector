@@ -1,4 +1,6 @@
-The goal of this project is to build a presence detector for five friends living together. Using the wifi capabilities of a ESP8266, this microcontroller is looking for this five known MACs of the wifi adapter of their smartphones. If a MAC is near the ESP8266, a green LED (of friend #1) is switched on, otherwise another LED is red and so on, til I get this result:
+The goal of this project is to build a presence detector for five friends living together. Using the wifi capabilities of a ESP8266,
+this microcontroller is looking for this five known MACs of the wifi adapter of their smartphones. If a MAC is near the ESP8266, 
+a green LED (of friend #1) is switched on, otherwise another LED is red and so on, til I get this result:
 
 
 Example:

@@ -3,16 +3,16 @@ The goal of this project is to build a presence detector for five friends living
 
 Example:
 
-*+--------------------------------+
-*|                                |
-*|   #1    #2    #3    #4    #5   |
-*|                                |
-*|   RED   RED   RED         RED  |
-*|                                |           Result: #4 is available for drinking beer!
-*|                                |
-*|                     Green      |
-*|                                |
-*+--------------------------------+
++--------------------------------+
+|                                |
+|   #1    #2    #3    #4    #5   |
+|                                |
+|   RED   RED   RED         RED  |
+|                                |           Result: #4 is available for drinking beer!
+|                                |
+|                     Green      |
+|                                |
++--------------------------------+
 
 
 
